@@ -49,17 +49,17 @@
 
 <!-- ////Actual text//// -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.1]][2].
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/BrandonRReed/BrandonRReed/master/#0A66C2 (LinkedIn icon without padding)
+[2.1]: https://raw.githubusercontent.com/BrandonRReed/BrandonRReed/master/#0A66C2 (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/brandonrreed
-[2]: https://www.linkedin.com/in/brandonrreed1
+[2]: https://www.linkedin.com/in/brandonrreed1/
 
 https://www.buymeacoffee.com/stardrifter
 
