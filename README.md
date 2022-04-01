@@ -1,7 +1,7 @@
 
 [![Header](https://raw.githubusercontent.com/BrandonRReed/BrandonRReed/master/readme_header.png "Header")](https://brandonreed.dev/)
 
-###Hello_World
+### Hello_World
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BrandonRReed>&theme=<THEME_NAME>" />
 
@@ -11,7 +11,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=BrandonRReed)
 
 
-##Tech & Tools
+## Tech & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 
-## &#x1f4c8; GitHub Statistics
+<u>## GitHub Statistics</u>
 
 <a href="https://github.com/BrandonRReed/BrandonRReed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonRReed&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
