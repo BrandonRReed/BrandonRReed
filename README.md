@@ -3,7 +3,7 @@
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BrandonRReed&show_icons=true)
-
+<!--![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)--> <!--**shows contributors for collaborative repos-->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=BrandonRReed)
 
 <!--
