@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BrandonRReed>&theme=<THEME_NAME>" />
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BrandonRReed&show_icons=true)
