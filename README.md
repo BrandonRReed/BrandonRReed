@@ -41,7 +41,7 @@
 
 <!--![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)--> <!--**shows contributors for collaborative repos-->
 
-
+https://www.buymeacoffee.com/stardrifter
 
 
 
