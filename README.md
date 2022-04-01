@@ -41,6 +41,12 @@
 
 <!--![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)--> <!--**shows contributors for collaborative repos-->
 
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/brandonrreed
+[2]: https://www.linkedin.com/in/brandonrreed1
+
 https://www.buymeacoffee.com/stardrifter
 
 
