@@ -39,6 +39,7 @@
 ## Tech & Tools
 <!--"note: color options: blueviolet, 2bbc8a (mintgreen), darkgrey, red" -->
 <!--"see also: https://www.color-hex.com/color/cc0000 -->
+<!-- Github profiles are designed using markdown, see guide here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=linux&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=cc0000)
