@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/BrandonRReed/BrandonRReed/master/readme_header.png "View Portfolio Website Here")](https://brandonreed.dev/)
+✨[![View Portfolio Website Here](https://raw.githubusercontent.com/BrandonRReed/BrandonRReed/master/readme_header.png "View Portfolio Website Here")](https://brandonreed.dev/)
 
 ### Welcome to my Github! 
 
