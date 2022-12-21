@@ -55,7 +55,7 @@
 ![](https://img.shields.io/badge/conda-cc0000.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Spyder%20Ide-cc0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 
-
+https://img.shields.io/endpoint?color=cc0000&label=OS&logo=kalilinux&logoColor=white&style=plastic&url=Kali-Linux
 
 
 
