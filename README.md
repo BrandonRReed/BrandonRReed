@@ -62,7 +62,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=cc0000)
 
-https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
 
 
 ![](https://img.shields.io/badge/conda-cc0000.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
