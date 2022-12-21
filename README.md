@@ -3,7 +3,7 @@
 # Welcome to my Github! 
 
 
-✨[!]View Portfolio Website Here (https://brandonreed.dev/)
+[!View Portfolio Website Here](https://brandonreed.dev/)
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BrandonRReed>&theme=<THEME_NAME>" /> -->
