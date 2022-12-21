@@ -1,7 +1,10 @@
 
+
+#Welcome to my Github! 
+
+
 ✨[![View Portfolio Website Here](https://raw.githubusercontent.com/BrandonRReed/BrandonRReed/master/readme_header.png "View Portfolio Website Here")](https://brandonreed.dev/)
 
-### Welcome to my Github! 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BrandonRReed>&theme=<THEME_NAME>" /> -->
 
