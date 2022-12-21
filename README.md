@@ -49,8 +49,9 @@ p{color:Black !important;}
 <!--"note: color options: blueviolet, 2bbc8a (mintgreen), darkgrey, red" -->
 <!--"see also: https://www.color-hex.com/color/cc0000 -->
 <!-- Github profiles are designed using markdown, see guide here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+<!-- see also: https://simpleicons.org/ -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=cc0000)
-![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=kali-linux&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=#557C94&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=cc0000)
