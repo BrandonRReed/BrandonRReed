@@ -1,6 +1,6 @@
 
 
-# <span style="color:cc0000">some *Welcome to my Github!* text</span>   <!--Markdown does not support color, so you have to in-line html into it -->
+# <span style="color:cc0000">Welcome to my Github!</span>   <!--Markdown does not support color, so you have to in-line html into it -->
 
 
 [View Portfolio Website Here](https://brandonreed.dev/)
