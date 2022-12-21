@@ -44,7 +44,7 @@
 <!--"see also: https://www.color-hex.com/color/cc0000 -->
 <!-- Github profiles are designed using markdown, see guide here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=cc0000)
-![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=kalilinux&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=kali-linux&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=cc0000)
@@ -55,7 +55,6 @@
 ![](https://img.shields.io/badge/conda-cc0000.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Spyder%20Ide-cc0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 
-https://img.shields.io/endpoint?color=cc0000&label=OS&logo=kalilinux&logoColor=white&style=plastic&url=Kali-Linux
 
 
 
