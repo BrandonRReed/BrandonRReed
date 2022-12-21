@@ -4,9 +4,6 @@
 # <span style="color:red"> **Welcome to my Github!** </span>   <!--Markdown does not support color, so you have to in-line html into it?? does not work :( -->
 
 
-[View Portfolio Website Here](https://brandonreed.dev/)
-
-
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BrandonRReed>&theme=<THEME_NAME>" /> -->
 
 
@@ -84,8 +81,9 @@
 
 <!-- ////Actual text//// -->
 ## Social Media Links
-You can find me on the following platforms:
+You can find me on the following platforms and sites:
 
+[![icons8-internet-100](https://user-images.githubusercontent.com/95740818/208879126-f050a4ee-c0d1-420b-a0bf-37ac94ba65dc.png)](https://brandonreed.dev/)
 [![github_red](https://user-images.githubusercontent.com/95740818/208837732-24505bad-82ac-4cd2-a727-ec226b43e563.svg)](https://github.com/BrandonRReed)
 [![linkedin_red](https://user-images.githubusercontent.com/95740818/208837762-db936d20-e0ee-4a45-979e-2375daececd9.svg)](https://www.linkedin.com/in/brandonrreed1/)
 [![twitter_red](https://user-images.githubusercontent.com/95740818/208838184-4611c722-54da-4cda-9cc3-b86181c8fbe7.svg)](https://twitter.com/brandonrreed)
