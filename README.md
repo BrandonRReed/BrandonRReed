@@ -48,15 +48,15 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=cc0000)
 
-![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
+![](https://img.shields.io/badge/conda-cc0000.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/Spyder%20Ide-cc0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=BrandonRReed)
 
 
-
+<!-- Profile view badge -->
+<!--![Profile View Counter](https://komarev.com/ghpvc/?username=BrandonRReed)-->
 
 
 
