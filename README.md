@@ -1,6 +1,5 @@
 
 
-
 <!-- MAIN HEADER -->
 # <span style="color:red"> **Welcome to my Github!** </span>   <!--Markdown does not support color, so you have to in-line html into it?? does not work :( -->
 
@@ -48,21 +47,31 @@
 <!-- see also: https://simpleicons.org/ -->
 ![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=Windows&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=cc0000)
-![](https://img.shields.io/badge/OS-KaliLinux-informational?style=plastic&logo=kali&logoColor=white&color=cc0000)
-![](https://img.shields.io/badge/OS-android-informational?style=plastic&logo=gnu-bash&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/OS-Kali%20Linux-informational?style=plastic&logo=Kali-Linux&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/OS-Android-cc0000.svg?style=plastic&logo=Android&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Code-C%23-informational?style=plastic&logo=C-sharp&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=cc0000)
-![](https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=cc0000&logoColor=white&label=%20&style=plastic)
+![](https://img.shields.io/badge/Code-Rust-informational?style=plastic&logo=Rust&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Code-css3-1572B6.svg?style=plastic&logo=CSS3&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-html5-informational?style=plastic&logo=html5&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Tools-Raspberry%20Pi-informational?style=plastic&logo=Raspberry-Pi&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Tools-Home%20Assistant-cc0000.svg?style=plastic&logo=Home-Assistant&logoColor=white)
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=plastic&logo=mysql&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=cc0000)
 
+https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
 
 
 ![](https://img.shields.io/badge/conda-cc0000.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Spyder%20Ide-cc0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
+![](https://img.shields.io/badge/Atom-cc0000?style=for-the-badge&logo=Atom&logoColor=white)
+![](https://img.shields.io/badge/Tableau-cc0000?style=for-the-badge&logo=Tableau&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Excel-cc0000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/Tauri-cc0000.svg?style=for-the-badge&logo=Tauri&logoColor=white)
+![](https://img.shields.io/badge/Unity-cc0000?style=for-the-badge&logo=unity&logoColor=white)
 
 
 
@@ -78,12 +87,12 @@
 ## Social Media Links
 You can find me on the following platforms:
 
-![github_red](https://user-images.githubusercontent.com/95740818/208837732-24505bad-82ac-4cd2-a727-ec226b43e563.svg)
-![linkedin_red](https://user-images.githubusercontent.com/95740818/208837762-db936d20-e0ee-4a45-979e-2375daececd9.svg)
-![twitter_red](https://user-images.githubusercontent.com/95740818/208838184-4611c722-54da-4cda-9cc3-b86181c8fbe7.svg)
-![insta_red](https://user-images.githubusercontent.com/95740818/208837778-83a163c8-d0e1-4a62-b302-9f2855f4664b.svg)
-![stackoverflow_red](https://user-images.githubusercontent.com/95740818/208838152-206247b4-4934-47b5-a90b-7a45b41051cf.svg)
-![itchio_red](https://user-images.githubusercontent.com/95740818/208839321-64e4a867-65be-47f4-90c2-543cd646257d.png)
+[![github_red](https://user-images.githubusercontent.com/95740818/208837732-24505bad-82ac-4cd2-a727-ec226b43e563.svg)](https://github.com/BrandonRReed)
+[![linkedin_red](https://user-images.githubusercontent.com/95740818/208837762-db936d20-e0ee-4a45-979e-2375daececd9.svg)](https://www.linkedin.com/in/brandonrreed1/)
+[![twitter_red](https://user-images.githubusercontent.com/95740818/208838184-4611c722-54da-4cda-9cc3-b86181c8fbe7.svg)](https://twitter.com/brandonrreed)
+[![insta_red](https://user-images.githubusercontent.com/95740818/208837778-83a163c8-d0e1-4a62-b302-9f2855f4664b.svg)]()
+[![stackoverflow_red](https://user-images.githubusercontent.com/95740818/208838152-206247b4-4934-47b5-a90b-7a45b41051cf.svg)](https://stackoverflow.com/)
+[![itchio_red](https://user-images.githubusercontent.com/95740818/208839321-64e4a867-65be-47f4-90c2-543cd646257d.png)](https://star-drifter.itch.io/)
 
 
 
@@ -94,7 +103,7 @@ You can find me on the following platforms:
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/brandonrreed
+[3]: https://twitter.com/brandonrreed
 [2]: https://www.linkedin.com/in/brandonrreed1/
 
 https://www.buymeacoffee.com/stardrifter
@@ -102,30 +111,10 @@ https://www.buymeacoffee.com/stardrifter
 
 
 
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
-[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
 
 
 
-
-
+<!-- Flask documentation: https://flask.palletsprojects.com/en/2.2.x/tutorial/ -->
 
 
 <!--
