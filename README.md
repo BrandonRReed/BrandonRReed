@@ -53,6 +53,7 @@
 ![](https://img.shields.io/badge/Code-Rust-informational?style=plastic&logo=Rust&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-css3-1572B6.svg?style=plastic&logo=CSS3&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-html5-informational?style=plastic&logo=html5&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Code-Markdown-cc0000.svg?style=plastic&logo=Markdown&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Tools-Raspberry%20Pi-informational?style=plastic&logo=Raspberry-Pi&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Tools-Home%20Assistant-cc0000.svg?style=plastic&logo=Home-Assistant&logoColor=white)
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=plastic&logo=mysql&logoColor=white&color=cc0000)
