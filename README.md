@@ -23,7 +23,7 @@
 
 
 <a href="https://github.com/BrandonRReed/BrandonRReed">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonRReed&hide=java,html,tex&title_color=ffffff&text_color=cc0000&icon_color=2bbc8a&_color=1d1f21&langs_count=6" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonRReed&hide=java,html,tex&title_color=ffffff&text_color=cc0000&icon_color=2bbc8a_color=1d1f21&langs_count=6" />
 </a>
 
 <!--![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)--> <!--**shows contributors for collaborative repos-->
