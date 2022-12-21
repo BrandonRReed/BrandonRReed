@@ -19,26 +19,29 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonRReed&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
 </a>
 
+<!--![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)--> <!--**shows contributors for collaborative repos-->
+
+
+
 
 ## Tech & Tools
+<!--"note: color options: blueviolet, 2bbc8a (mintgreen), darkgrey, red" -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=linux&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=2bbc8a)
-##"note: color options: blueviolet, 2bbc8a (mintgreen), darkgrey, red"
+![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=linux&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 
+
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=BrandonRReed)
 
-
-
-<!--![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)--> <!--**shows contributors for collaborative repos-->
 
 
 
