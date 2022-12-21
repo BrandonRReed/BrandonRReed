@@ -1,6 +1,6 @@
 
 
-# Welcome to my Github! 
+# <span style="color:cc0000">some *Welcome to my Github!* text</span>   <!--Markdown does not support color, so you have to in-line html into it -->
 
 
 [View Portfolio Website Here](https://brandonreed.dev/)
@@ -80,6 +80,33 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.1]][2].
 [2]: https://www.linkedin.com/in/brandonrreed1/
 
 https://www.buymeacoffee.com/stardrifter
+
+
+
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
+[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
+[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
+
+
+
+
 
 
 
