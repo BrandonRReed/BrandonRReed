@@ -3,7 +3,7 @@
 
 ### Welcome to my Github! 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BrandonRReed>&theme=<THEME_NAME>" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BrandonRReed>&theme=<THEME_NAME>" /> -->
 
 
 
@@ -12,7 +12,7 @@
 ## GitHub Statistics
 
 <a href="https://github.com/BrandonRReed/BrandonRReed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonRReed&show_icons=true&color=cc0000&line_height=27&count_private=true&title_color=cc0000&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brandon's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonRReed&show_icons=true&color=cc0000&line_height=27&count_private=true&title_color=cc0000&text_color=c9cacc&icon_color=2bbc8a&bg_color=DEG,1d1f21,cc0000" alt="Brandon's GitHub Stats" />
 </a>
 
 <a href="https://github.com/BrandonRReed/BrandonRReed">
