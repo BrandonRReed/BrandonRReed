@@ -88,7 +88,7 @@ You can find me on the following platforms and sites:
 [![github_red](https://user-images.githubusercontent.com/95740818/208837732-24505bad-82ac-4cd2-a727-ec226b43e563.svg)](https://github.com/BrandonRReed)
 [![linkedin_red](https://user-images.githubusercontent.com/95740818/208837762-db936d20-e0ee-4a45-979e-2375daececd9.svg)](https://www.linkedin.com/in/brandonrreed1/)
 [![twitter_red](https://user-images.githubusercontent.com/95740818/208838184-4611c722-54da-4cda-9cc3-b86181c8fbe7.svg)](https://twitter.com/brandonrreed)
-[![insta_red](https://user-images.githubusercontent.com/95740818/208837778-83a163c8-d0e1-4a62-b302-9f2855f4664b.svg)]()
+[![insta_red](https://user-images.githubusercontent.com/95740818/208837778-83a163c8-d0e1-4a62-b302-9f2855f4664b.svg)](https://www.instagram.com/)
 [![stackoverflow_red](https://user-images.githubusercontent.com/95740818/208838152-206247b4-4934-47b5-a90b-7a45b41051cf.svg)](https://stackoverflow.com/)
 [![itchio_red](https://user-images.githubusercontent.com/95740818/208839321-64e4a867-65be-47f4-90c2-543cd646257d.png)](https://star-drifter.itch.io/)
 
