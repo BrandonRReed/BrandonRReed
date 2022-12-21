@@ -26,7 +26,8 @@
 
 ## Tech & Tools
 <!--"note: color options: blueviolet, 2bbc8a (mintgreen), darkgrey, red" -->
-![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=blueviolet)
+<!--"see also: https://www.color-hex.com/color/cc0000 -->
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=linux&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blueviolet)
