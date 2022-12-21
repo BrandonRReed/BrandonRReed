@@ -12,7 +12,7 @@
 ## GitHub Statistics
 
 <a href="https://github.com/BrandonRReed/BrandonRReed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonRReed&show_icons=true&line_height=27&count_private=true&title_color=cc0000&text_color=c9cacc&icon_color=red&bg_color=DEG,1d1f21,000000" alt="Brandon's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonRReed&show_icons=true&line_height=27&count_private=true&title_color=cc0000&text_color=c9cacc&icon_color=84628F&bg_color=DEG,1d1f21,000000" alt="Brandon's GitHub Stats" />
 </a>
 
 <a href="https://github.com/BrandonRReed/BrandonRReed">
