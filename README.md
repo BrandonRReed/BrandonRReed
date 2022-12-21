@@ -12,7 +12,7 @@
 ## GitHub Statistics
 
 <a href="https://github.com/BrandonRReed/BrandonRReed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonRReed&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brandon's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonRReed&show_icons=true&line_height=27&count_private=true&title_color=cc0000&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brandon's GitHub Stats" />
 </a>
 
 <a href="https://github.com/BrandonRReed/BrandonRReed">
@@ -28,13 +28,13 @@
 <!--"note: color options: blueviolet, 2bbc8a (mintgreen), darkgrey, red" -->
 <!--"see also: https://www.color-hex.com/color/cc0000 -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=cc0000)
-![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=linux&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=linux&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=sql&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=cc0000)
 
 ![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
