@@ -1,11 +1,7 @@
 
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
 
-# Color Test Document
+
+<!-- MAIN HEADER -->
 # <span style="color:red"> **Welcome to my Github!** </span>   <!--Markdown does not support color, so you have to in-line html into it?? does not work :( -->
 
 
@@ -50,14 +46,20 @@ p{color:Black !important;}
 <!--"see also: https://www.color-hex.com/color/cc0000 -->
 <!-- Github profiles are designed using markdown, see guide here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 <!-- see also: https://simpleicons.org/ -->
+![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=Windows&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=cc0000)
-![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=plastic&logo=#557C94&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/OS-KaliLinux-informational?style=plastic&logo=kali&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/OS-android-informational?style=plastic&logo=gnu-bash&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=cc0000)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=cc0000)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=sql&logoColor=white&color=cc0000)
+![](https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=cc0000&logoColor=white&label=%20&style=plastic)
+![](https://img.shields.io/badge/Code-html5-informational?style=plastic&logo=html5&logoColor=white&color=cc0000)
+![](https://img.shields.io/badge/Tools-mySQL-informational?style=plastic&logo=mysql&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=cc0000)
+
+
 
 ![](https://img.shields.io/badge/conda-cc0000.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Spyder%20Ide-cc0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
@@ -73,8 +75,17 @@ p{color:Black !important;}
 
 
 <!-- ////Actual text//// -->
+## Social Media Links
+You can find me on the following platforms:
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.1]][2].
+![github_red](https://user-images.githubusercontent.com/95740818/208837732-24505bad-82ac-4cd2-a727-ec226b43e563.svg)
+![linkedin_red](https://user-images.githubusercontent.com/95740818/208837762-db936d20-e0ee-4a45-979e-2375daececd9.svg)
+![twitter_red](https://user-images.githubusercontent.com/95740818/208838184-4611c722-54da-4cda-9cc3-b86181c8fbe7.svg)
+![insta_red](https://user-images.githubusercontent.com/95740818/208837778-83a163c8-d0e1-4a62-b302-9f2855f4664b.svg)
+![stackoverflow_red](https://user-images.githubusercontent.com/95740818/208838152-206247b4-4934-47b5-a90b-7a45b41051cf.svg)
+![itchio_red](https://user-images.githubusercontent.com/95740818/208839321-64e4a867-65be-47f4-90c2-543cd646257d.png)
+
+
 
 <!-- Icons -->
 
