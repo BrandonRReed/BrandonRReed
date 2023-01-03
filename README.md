@@ -91,7 +91,7 @@ You can find me on the following platforms and sites:
 [![insta_red](https://user-images.githubusercontent.com/95740818/208837778-83a163c8-d0e1-4a62-b302-9f2855f4664b.svg)](https://www.instagram.com/)
 [![stackoverflow_red](https://user-images.githubusercontent.com/95740818/208838152-206247b4-4934-47b5-a90b-7a45b41051cf.svg)](https://stackoverflow.com/)
 [![itchio_red](https://user-images.githubusercontent.com/95740818/208839321-64e4a867-65be-47f4-90c2-543cd646257d.png)](https://star-drifter.itch.io/)
-[![Buy me a coffee!](https://github.com/BrandonRReed/sticker-icons-Red-/blob/main/red_icons/coffee2_red.png)](https://www.buymeacoffee.com/stardrifter)
+[![Buy me a coffee!](https://github.com/BrandonRReed/sticker-icons-Red-/blob/main/red_icons/coffee_red.png)](https://www.buymeacoffee.com/stardrifter)
 
 
 <!-- Icons -->
