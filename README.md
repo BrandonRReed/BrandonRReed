@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/BrandonRReed/BrandonRReed">
-  <img align="center" src="https://https://github-readme-stats-personal-backup.vercel.app/api/top-langs/?username=BrandonRReed&title_color=cc0000&text_color=ffffff&icon_color=2bbc8a&bg_color=DEG,1d1f21,000000&langs_count=6" />
+  <img align="center" src="https://github-readme-stats-personal-backup.vercel.app/api/top-langs/?username=BrandonRReed&title_color=cc0000&text_color=ffffff&icon_color=2bbc8a&bg_color=DEG,1d1f21,000000&langs_count=6" />
 </a>
 
 
