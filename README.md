@@ -103,11 +103,25 @@ You can find me on the following platforms and sites:
 [2]: https://www.linkedin.com/in/brandonrreed1/
 
 
+---
 
+## 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+- [title of post](link)
 
+<!-- BLOG-POST-LIST:END -->
 
+:books: [more blog posts...](www.brandonreed.dev)
 
+---
+
+## 📕 Check out MyWallpapers Repo here:
+
+I make these for fun, they are hi-res for ultra-wide screens
+- [title of post](link)
+
+---
 
 
 <!-- Flask documentation: https://flask.palletsprojects.com/en/2.2.x/tutorial/ -->
