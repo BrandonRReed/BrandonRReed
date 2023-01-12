@@ -1,7 +1,8 @@
 
 
 <!-- MAIN HEADER -->
-# <span style="color:red"> **Welcome to my Github!** </span>   <!--Markdown does not support color, so you have to in-line html into it?? does not work :( -->
+# <span style="color:red"> **Welcome to my Github!** </span>   
+<!--Markdown does not support color, so you have to in-line html into it?? does not work :( will look for other ways... after coffee, one day...-->
 
 
 
