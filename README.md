@@ -4,7 +4,7 @@
 # <span style="color:red"> **Welcome to my Github!** </span>   <!--Markdown does not support color, so you have to in-line html into it?? does not work :( -->
 
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BrandonRReed>&theme=<THEME_NAME>" /> -->
+<!--note <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BrandonRReed>&theme=<THEME_NAME>" /> -->
 
 
 
