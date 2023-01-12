@@ -124,6 +124,28 @@ I make these for fun, they are hi-res for ultra-wide screens
 ---
 
 
+
+
+
+
+
+
+
+
+
+<!--
+HOW TO MAKE DROP DOWN 
+<details>
+  ## <summary> 📕 Check out MyWallpapers Repo here: </summary>
+
+I make these for fun, they are hi-res for ultra-wide screens
+- [title of post](link)
+
+</details>
+-->
+
+
+
 <!-- Flask documentation: https://flask.palletsprojects.com/en/2.2.x/tutorial/ -->
 
 
